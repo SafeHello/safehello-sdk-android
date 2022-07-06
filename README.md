@@ -15,7 +15,7 @@ The Safest, Fastest Way To Connect. SafeHello helps you find the person you're l
 The Android SDK is distributed as an `aar bundle` and is compatible with Android SDK API 24 and above. 
 You just need to add the Safe Hello sdk aar bundle to your `libs` folder, and you're ready to start using it!
 
-## Usage # TODO
+## Usage
 
 To start using the sdk, import the SDK:
 
