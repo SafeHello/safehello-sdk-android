@@ -1,15 +1,5 @@
 # SafeHello Android SDK
 
-The Safest, Fastest Way To Connect. SafeHello helps you find the person you're looking for quickly and more confidently.
-
-## Features
-
-- **Unique SafeSignal**: You and the person you’re meeting will be assigned a matching, easy-to-spot signal with a unique color combination.
-
-- **One-time SafeCode**: For extra security, view a unique, one-time numerical code generated only for this interaction that appears on both devices.
-
-- **Dynamic SafeSketch**: Go a step further with a sketch: both participants draw, and the resulting image appears on both devices in real-time.
-
 ## Installation
 
 The Android SDK is distributed as an `aar bundle` and is compatible with Android SDK API 24 and above. 
